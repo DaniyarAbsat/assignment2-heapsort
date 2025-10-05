@@ -1,0 +1,17 @@
+Algorithm,ArrayType,Size,Time(ms),Comparisons,Swaps,ArrayAccesses
+HeapSort,Random,100,7,512,?,?,?
+HeapSort,Random,1000,0,847,?,?,?
+HeapSort,Random,10000,3,216,?,?,?
+HeapSort,Random,100000,12,202,?,?,?
+HeapSort,Sorted,100,0,311,?,?,?
+HeapSort,Sorted,1000,0,294,?,?,?
+HeapSort,Sorted,10000,1,208,?,?,?
+HeapSort,Sorted,100000,7,236,?,?,?
+HeapSort,Reverse,100,0,260,?,?,?
+HeapSort,Reverse,1000,0,264,?,?,?
+HeapSort,Reverse,10000,0,803,?,?,?
+HeapSort,Reverse,100000,7,467,?,?,?
+HeapSort,NearlySorted,100,0,154,?,?,?
+HeapSort,NearlySorted,1000,0,289,?,?,?
+HeapSort,NearlySorted,10000,0,984,?,?,?
+HeapSort,NearlySorted,100000,8,269,?,?,?
